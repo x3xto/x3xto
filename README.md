@@ -1,4 +1,4 @@
-Hello
+qq
 
 I'm x3_xto (x2_xto/x4_xto/x3xto) or just Roman.
 + Cybersecurity student of Lviv Polytechnic National University.
@@ -6,4 +6,4 @@ I'm x3_xto (x2_xto/x4_xto/x3xto) or just Roman.
 
 Also love playing video games, mostly sandboxes and strategies.
 
-Working on Ukrainian translation of EID mod for The Binding of Isaac: Rebirth (~95% done).
+Author of the Ukrainian translation of EID mod for The Binding of Isaac: Rebirth.
