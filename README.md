@@ -8,21 +8,29 @@ Hello! I'm Roman (also known as x3_xto, x2_xto), a cybersecurity enthusiast and 
       <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="80"><br>
       <strong>cat linux.txt</strong>
     </td>
-        <td align="center">
+    <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" width="80"><br>
       <strong>OWASP Top 10</strong>
     </td>
-        <td align="center">
+    <td align="center">
+      <img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="80"><br>
+      <strong>World Wide Web</strong>
+    </td>
+    <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" width="80"><br>
       <strong>Advent of Cyber 2024</strong>
     </td>
     <td align="center">
-      <img src="https://assets.tryhackme.com/img/badges/3million.svg" width="80"><br>
-      <strong>3 Million Legend</strong>
+      <img src="https://tryhackme.com/img/badges/hashcracker.svg" width="80"><br>
+      <strong>Hash Cracker</strong>
     </td>
     <td align="center">
-      <img src="https://assets.tryhackme.com/img/badges/streak30.svg" width="80"><br>
-      <strong>30 Day Streak</strong>
+      <img src="https://tryhackme.com/img/badges/mrrobot.svg" width="80"><br>
+      <strong>Mr. Robot</strong>
+    </td>
+    <td align="center">
+      <img src="https://tryhackme.com/img/badges/streak180.svg" width="80"><br>
+      <strong>180 Day Streak</strong>
     </td>
   </tr>
 </table>
