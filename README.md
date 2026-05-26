@@ -1,4 +1,4 @@
-## About Me
+## About me
 
 Hello! I'm Roman (also known as x3_xto, x2_xto), a cybersecurity enthusiast and student at Lviv Polytechnic National University. I'm passionate about both 💙blue and 💛yellow teams, constantly improving my skills and participating in cybersecurity challenges.
 
@@ -29,19 +29,12 @@ Hello! I'm Roman (also known as x3_xto, x2_xto), a cybersecurity enthusiast and 
       <strong>Mr. Robot</strong>
     </td>
     <td align="center">
-      <img src="https://tryhackme.com/img/badges/streak180.svg" width="80"><br>
-      <strong>180 Day Streak</strong>
+      <img src="https://tryhackme.com/img/badges/streak500.svg" width="80"><br>
+      <strong>500 Days Streak</strong>
     </td>
   </tr>
 </table>
 
-<div id="header" align="center" width="400">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/x3xto.png" alt="x3xto Image Badge" />
-</div>
-
 I also have a passion for video games, particularly sandbox and strategy genres. Additionally, I'm the author of the Ukrainian translation for the EID mod of *The Binding of Isaac: Rebirth*.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x3xto&show_icons=true&theme=tokyonight" alt="x3xto GitHub Stats" />
-</div>
 
