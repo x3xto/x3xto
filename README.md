@@ -1,8 +1,10 @@
 ## About me
 
-Hello! I'm Roman (also known as x3_xto, x2_xto), a cybersecurity enthusiast and student at Lviv Polytechnic National University. I'm passionate about ❤️ red teaming, constantly improving my skills and participating in cybersecurity challenges. Now I'm actively learning Web- and AI-security on PortSwigger Web Sec Academy (97% labs done on my road to BSCP) and Infinity Learning platform by CWL (even have their certifications on AI security). Top 3% worldwide on TryHackMe. 
+Hello! I'm Roman (also known as x3_xto, x2_xto), a cybersecurity enthusiast and student at Lviv Polytechnic National University. I'm passionate about ❤️ red teaming, constantly improving my skills and participating in cybersecurity challenges. I'm currently studying web and AI security through PortSwigger Web Security Academy (97% labs done on my road to BSCP) and CWL's Infinity Learning platform (even have their certifications on AI security). Top 3% worldwide on TryHackMe. 
 
-Interested in malware and have a big motivation to learn C/Go for that topic. 
+I occasionally document my approach to security challenges, including reconnaissance, exploitation, and lessons learned. You can find my works here: [writeups](https://github.com/x3xto/writeups).
+
+I'm also interested in malware analysis and motivated to learn C and Go to explore it further.
 
 <table align="center">
   <tr>
@@ -17,10 +19,6 @@ Interested in malware and have a big motivation to learn C/Go for that topic.
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/ai-odyssey-participation.svg" width="95"><br>
       <strong>AI Odyssey</strong>
-    </td>
-    <td align="center">
-      <img src="https://assets.tryhackme.com/img/badges/aoc5.svg" width="80"><br>
-      <strong>Advent of Cyber 2024</strong>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/ohsint.png" width="80"><br>
